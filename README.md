@@ -1,1 +1,1 @@
-# Reimplementation of 1-stage Object Detection Model You-Only-Look-Once (YOLOv1) 
+# Reimplementation of 1-stage Object Detection YOLOv1 Model
